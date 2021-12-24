@@ -1,7 +1,4 @@
-# WinterInternship2022-solved
-Please read the README
-
-About app
+﻿About app
 
 Start and run:
 To run the application open the SantaClauseConsoleApp.sln and hit run, it starts in the document "Program.cs"
